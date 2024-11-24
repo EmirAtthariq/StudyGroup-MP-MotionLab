@@ -1,6 +1,7 @@
 ﻿#StudyGroupMobileProgrammingMotionLab
 
 Week 1- Introduction to Android Development
+
 Untuk Week 1 ini, aplikasi yang telah saya buat memiliki fitur login dengan memasukkan username dan password dan jika login berhasil, maka akan berpindah ke homepage. Di dalam homepage juga bisa dilakukan logout yang akan mengembalikan user ke page login
 
 ![alt text](image.png) 
