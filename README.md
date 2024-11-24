@@ -21,3 +21,10 @@ dan ini tampilan dari homepage yang telah saya buat
 jika tombol logout dipencet dan username dan password sudah terisi, maka user akan berpindah ke login page dan akan muncul text seperti dibawah ini
 
 ![alt text](image-4.png)
+
+Dan juga terdapat log untuk mencatat tiap terjadinya login atau logout seperti dibawah ini
+
+![image](https://github.com/user-attachments/assets/08de723e-4b93-4abb-8f73-68000f349cd9)
+
+![image](https://github.com/user-attachments/assets/3ca03d45-84e3-48e2-a0ba-576796d81099)
+
