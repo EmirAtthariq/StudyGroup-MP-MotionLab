@@ -1,19 +1,21 @@
 ﻿#StudyGroupMotionLab
 
-Week 2- Basic UI Compose
+Week 3-Advanced UI
 
-Untuk week 2 ini saya telah membuat aplikasi yang memiliki fitur Login dan regiter akun, terdapat login page, register page dan juga Main page
+Untuk Week 3 ini saya membuat aplikasi Movie Review yang terdapat login dan juga home, profile, dan settings screen yang menggunakan font Ubuntu Reguler
+
+Tampilan Login Page
 
 ![alt text](image.png)
 
-Jika tombol register dipencet maka akan mengarahkan user ke register page
+Apabila tombol login dipencet maka akan membawa user ke home Screen, di Home Screen terdapat review Movie yang dapat di scroll kebawah
 
 ![alt text](image-1.png)
 
-Ketika tombol register page dipencet maka akan mengarahkan user kembali ke login page
-
 ![alt text](image-2.png)
 
-Lalu jika user menekan tombol login, maka akan diarahkan ke Main page
+Dan terdapat juga Profile Screen dan Settings Screen yang dapat diakses menggunakan navigation bar yang ada dibawah
 
 ![alt text](image-3.png)
+
+![alt text](image-4.png)
