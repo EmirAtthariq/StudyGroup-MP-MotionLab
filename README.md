@@ -2,6 +2,8 @@
 
 ## Week 2- Basic UI Compose
 
+### https://github.com/EmirAtthariq/2-BasicUI
+
 Untuk week 2 ini saya telah membuat aplikasi yang memiliki fitur Login dan regiter akun, terdapat login page, register page dan juga Main page
 
 ![alt text](image.png)
