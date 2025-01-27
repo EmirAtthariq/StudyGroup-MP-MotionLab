@@ -1,4 +1,4 @@
-﻿#StudyGroupMobileProgrammingMotionLab
+﻿# StudyGroupMobileProgrammingMotionLab
 
 Week 1- Introduction to Android Development
 
