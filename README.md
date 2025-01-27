@@ -1,6 +1,6 @@
 ﻿# StudyGroupMotionLab
 
-Week 2- Basic UI Compose
+## Week 2- Basic UI Compose
 
 Untuk week 2 ini saya telah membuat aplikasi yang memiliki fitur Login dan regiter akun, terdapat login page, register page dan juga Main page
 
