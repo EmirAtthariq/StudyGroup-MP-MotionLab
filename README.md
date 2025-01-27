@@ -1,6 +1,6 @@
 ﻿# StudyGroupMobileProgrammingMotionLab
  ## Week 6-Retrofit (API)
-
+### https://github.com/EmirAtthariq/6-RetrofitAPI
  API yang kali ini saya eksplorasi adalah https://api.chucknorris.io/
 
 chucknorris.io adalah API JSON gratis untuk fakta-fakta Chuck Norris yang telah dikurasi.
