@@ -1,6 +1,6 @@
-﻿#StudyGroupMotionLab
+﻿# StudyGroupMotionLab
 
-Week 3-Advanced UI
+## Week 3-Advanced UI
 
 Untuk Week 3 ini saya membuat aplikasi Movie Review yang terdapat login dan juga home, profile, dan settings screen yang menggunakan font Ubuntu Reguler
 
